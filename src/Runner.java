@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Runner  {
-   Kutuphane.Kitap kitap = new Kutuphane.Kitap();
+   Kitap kitap = new Kitap();
 
 
 
